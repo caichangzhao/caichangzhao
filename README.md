@@ -19,7 +19,8 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about ...
 - 📫 How to reach me: `lirich674@gmail.com`
 - 😄 [学习笔记](https://github.com/liuqian62/notebook)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...![1](https://user-images.githubusercontent.com/82129426/168004934-0cf65933-72c0-475a-a4c9-6d57a9092ea8.jpg)
+
 
  <center>
      <h1>简历模板</h1>

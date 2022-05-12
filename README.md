@@ -17,9 +17,8 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on slam based on msckf such as openVins.
 - 🤔 I’m looking for help with find a job related to slam.
 - 💬 Ask me about ...
-- 📫 How to reach me: `lirich674@gmail.com`
 - 😄 [学习笔记](https://github.com/liuqian62/notebook)
-- ⚡ Fun fact: ...![1](https://user-images.githubusercontent.com/82129426/168004934-0cf65933-72c0-475a-a4c9-6d57a9092ea8.jpg)
+- ⚡ Fun fact: ...
 
 
  <center>

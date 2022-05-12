@@ -35,4 +35,4 @@ Here are some ideas to get you started: -->
 
 <!-- * 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字        -->
 * 电子科技大学&emsp;&emsp;&emsp;&emsp;&emsp;2020.9~至今&emsp;&emsp;&emsp;&emsp;&emsp; 电子信息-研究生         
-* 吉林大学&emsp;&emsp;&emsp;&emsp;&emsp;2016.9~2020.7&emsp;&emsp;&emsp;&emsp; 通信工程自动化-本科  
+* 吉林大学&emsp;&emsp;&emsp;&emsp;&emsp;2015.9~2019.7&emsp;&emsp;&emsp;&emsp; 通信工程自动化-本科  
